@@ -1,0 +1,3 @@
+C:\Users\farmt\source\repos\CppCalculator\CppCalculator\Debug\CppCalculator.vcxprojAssemblyReference.cache
+C:\Users\farmt\source\repos\CppCalculator\CppCalculator\Debug\CppCalculator.MyForm.resources
+C:\Users\farmt\source\repos\CppCalculator\CppCalculator\Debug\CppCalculator.vcxproj.GenerateResource.cache
